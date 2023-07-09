@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 oluwatobi-fasasi
+Copyright (c) 2023 Cephas Tokoli and Samuel Wanza
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
