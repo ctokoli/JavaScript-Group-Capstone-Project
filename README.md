@@ -7,15 +7,15 @@
 - [Javascript-Capstone-Group-Project](#javascript-capstone-group-project)
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 \[Javascript-Capstone-Group-Project\] ](#-javascript-capstone-group-project-)
-  - [Tech Stack ](#tech-stack-)
-  - [Key Features ](#key-features-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Usage:](#usage)
     - [Run tests:](#run-tests)
     - [Deployment:](#deployment)
-    - [Demo](#video demo)
+    - [Demo:](#demo)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -25,7 +25,7 @@
 
 # 📖 [Javascript-Capstone-Group-Project] <a name="about-project"></a>
 
-**[Javascript-Capstone-Group-Project]** is a project that aims to implement the full features of javascript in a single project. We created this project using some JavaScript features like webpack, ES6 features, and Jest testing framework. We consume tvmaze and other APIs using JavaScript async and await and some styling.
+**[Javascript-Capstone-Group-Project]** is a project that aims to implement the full features of javascript in a single project. We created this project using some JavaScript features like webpack, ES6 features, and Jest testing framework. We consume tvmaze and other APIs using JavaScript async and await and UI styling.
 
 <br>
 
