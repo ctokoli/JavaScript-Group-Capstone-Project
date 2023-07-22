@@ -8,6 +8,7 @@ module.exports = {
     static: {
       directory: path.resolve(__dirname, 'dist'),
     },
+    allowedHosts: ['.onrender.com'],
     watchFiles: ['src/*.html'],
     port: 3000,
     open: true,
