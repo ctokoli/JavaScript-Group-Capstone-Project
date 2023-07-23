@@ -249,7 +249,9 @@ button.submit-button.btn {
 }
 
 img.pop-image {
-  width: 310px;
+  width: 327px;
+  margin-top: 20px;
+  height: 458px;
 }
 
 .cross-container {
