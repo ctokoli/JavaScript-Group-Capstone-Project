@@ -221,3 +221,52 @@ button.submit-button.btn {
   height: 43px;
   border-radius: 10px;
 }
+
+@media only screen and (max-width: 600px) {
+  body {
+    margin: 0;
+  }
+
+  .shows {
+      display: inline-grid;
+      grid-template-columns: 1fr 1fr ;
+      gap: 10px;
+      margin-left: 0;
+      margin-top: 20;
+    }
+
+  main {
+    width: 353px;
+    margin: 0 auto;
+}
+
+.grid-item {
+  width: 175px;
+}
+
+.grid-item img{
+  width: 175px;
+}
+
+img.pop-image {
+  width: 310px;
+}
+
+.cross-container {
+  position: absolute;
+  top: -4px;
+  right: -13px;
+  transform: rotate(45deg);
+  cursor: pointer;
+}
+
+comment-input input {
+  width: 327px;
+}
+
+button.submit-button.btn {
+  width: 338px;
+  font-size: 16px;
+}
+
+}
