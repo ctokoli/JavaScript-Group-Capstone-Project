@@ -34,7 +34,7 @@ const showRender = async () => {
         </div>
         <div class="popup hide">
           <div class="wrapper">
-            <img src="${movie.image.original}" alt="${movie.name}"/>
+            <img src="${movie.image.original}" class="pop-image" alt="${movie.name}"/>
             <div class="cross-container">
               <div class="vertical-line"></div>
               <div class="horizontal-line"></div>
